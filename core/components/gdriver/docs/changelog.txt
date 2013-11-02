@@ -1,0 +1,6 @@
+GDriver 0.4.0
+===============================
+- Initial release.
+- Basic Functions integrated, lots of functions still missing
+- Authentication, implemented through Description of Systemsetting
+- Basic Data-Gateway implemented
